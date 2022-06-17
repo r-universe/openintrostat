@@ -1,0 +1,18 @@
+[
+  {
+    "package": "airports",
+    "oncran": true
+  },
+  {
+    "package": "cherryblossom",
+    "oncran": true
+  },
+  {
+    "package": "openintro",
+    "oncran": true
+  },
+  {
+    "package": "usdata",
+    "oncran": true
+  }
+]
