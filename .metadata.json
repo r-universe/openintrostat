@@ -8,11 +8,11 @@
     "oncran": true
   },
   {
-    "package": "openintro",
+    "package": "usdata",
     "oncran": true
   },
   {
-    "package": "usdata",
+    "package": "openintro",
     "oncran": true
   }
 ]

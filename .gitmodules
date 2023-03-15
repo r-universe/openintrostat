@@ -13,13 +13,13 @@
 	url = https://github.com/openintrostat/cherryblossom
 	shallow = true
 	registered = true
-[submodule "openintro"]
-	path = openintro
-	url = https://github.com/openintrostat/openintro
-	shallow = true
-	registered = true
 [submodule "usdata"]
 	path = usdata
 	url = https://github.com/openintrostat/usdata
+	shallow = true
+	registered = true
+[submodule "openintro"]
+	path = openintro
+	url = https://github.com/openintrostat/openintro
 	shallow = true
 	registered = true
